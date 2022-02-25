@@ -37,4 +37,6 @@ In our game, we needed to give the allusion of our character falling down a tunn
 
 **2.**
 
+<img width="428" alt="Screen Shot 2022-02-24 at 11 40 18 PM" src="https://user-images.githubusercontent.com/67165004/155654870-85e825d1-c802-4799-b0e3-a41cfeda28bf.png">
+
 Another crucial part of our game is how our protagonist interacts with his environment. We've included code to give the user the impression that the character is jumping when he launches a fireball, as well as the impression that they're jumping off a platform.
