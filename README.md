@@ -1,4 +1,4 @@
-# Jetpack Agent
+# Jetpack Agent (Formerly Ninja Fall)
 **Submission for IU Hackathon**
 
 
@@ -7,7 +7,9 @@ Hello judges, welcome to our GitHub page for our IU Hackathon Submission! Below 
 
 **Initial Step- Brainstorming**
 
-<img width="258" alt="Screen Shot 2022-02-24 at 10 45 53 PM" src="https://user-images.githubusercontent.com/67165004/155649808-747b86e1-9635-4f7a-99b0-f458e02cd22b.png">
+<img width="258" alt="Screen Shot 2022-02-24 at 10 45 53 PM" src="https://user-images.githubusercontent.com/40647195/155870477-9119ad50-eaad-496d-8d29-e230363ffcd6.jpg">
+
+
 We came up with several game concepts during our initial brainstorming session. However, many of these game concepts appeared to be repetitious, dull, or had previously been developed. As a result, we were able to eliminate several of these concepts. We had three primary concepts remaining in our last phase, and Jetpack Agent stood out the most!
 
 **Second Step- Planning**
