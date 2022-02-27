@@ -3,7 +3,7 @@
 
 
 Hello judges, welcome to our GitHub page for our IU Hackathon Submission! Below we will go through each of our main components in our code along with our steps that we took throughout the project!
-
+Please view our project here: https://scratch.mit.edu/projects/650694969/editor
 
 **Initial Step- Brainstorming**
 
@@ -18,7 +18,7 @@ We came up with several game concepts during our initial brainstorming session. 
 <img width="258" alt="Screen Shot 2022-02-24 at 10 45 53 PM" src="https://user-images.githubusercontent.com/40647195/155869823-6bd17e85-a333-4ed0-8cba-373e433cc5ca.png">
 
 
-We laid out the aesthetic and the game's key objectives in the next stage. We decided to divide teams at this point. Tanishq would be in charge of the game's art, while Lakshay would be in charge of the programming. They were both working to their strengths, although Lakshay first struggled with Scratch because it was his first experience developing a real program on the application. However, after hours of youtube tutorials Lakshay had gained the experience needed to program the application on Scratch. All while Lakshay was busy programming the game's physics, Tansihq was making character and block models for the jetpack platformer game.
+We laid out the aesthetic and the game's key objectives in the next stage. We decided to divide teams at this point. Tanishq would be in charge of the game's art, while Lakshay would be in charge of the programming. They were both working to their strengths, although Lakshay first struggled with Scratch because it was his first experience developing a real program on the application, however, he quickly got a hold of it. All while Lakshay was busy programming the game's physics, Tansihq was making character and block models for the jetpack platformer game.
 
 **Third Step- Iteration**
 
@@ -26,8 +26,7 @@ We went through several iterations throughout the course of our project. Our fir
 
 **Challenges**
 
-Throughout the course of our endeavor, we faced several challenges. The failure to comprehend how Scratch works was one of the first hurdles. Furthermore, because scratch does not have a version history, we encountered issues with our work not saving or being overridden. Another hurdle will be learning how to utilize GitHub to provide good documentation for our project.
-
+Throughout the course of our endeavor, we faced several challenges. The failure to comprehend how Scratch works was one of the first hurdles. Furthermore, because scratch does not have a version history, we encountered issues with our work not saving or being overridden. Another hurdle making sure that we organzied and kept proper documentation.
 # Coding and Documentation
 
 **Physics**
