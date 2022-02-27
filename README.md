@@ -43,4 +43,4 @@ In our game, we needed to give the allusion of our character flying up a tunnel.
 
 <img width="428" alt="Screen Shot 2022-02-24 at 11 40 18 PM" src="https://user-images.githubusercontent.com/40647195/155870192-e802143c-923e-436f-a7c4-c25cb032341a.png">
 
-Another crucial part of our game is how our protagonist interacts with his environment. Some code that we have added to our project to empahsize this is the fact that the character may not touch the obstacles or they risk being eliminated, or the fact that they can move up,down, left, and right. 
+Another crucial part of our game is how our protagonist interacts with his environment. Some code that we have added to our project to empahsize this is the fact that the character may not touch the obstacles or they risk being eliminated, or the fact that they can move up,down, left, and right. We also used special techniques to randomly generate obstacles for the player to encounter.
