@@ -3,6 +3,7 @@
 
 
 Hello judges, welcome to our GitHub page for our IU Hackathon Submission! Below we will go through each of our main components in our code along with our steps that we took throughout the project!
+
 Please view our project here: https://scratch.mit.edu/projects/650694969/editor
 
 **Initial Step- Brainstorming**
